@@ -6,8 +6,9 @@
 - Nome 3 (matrícula) - email  
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Neste projeto, vamos investigar a relação entre as emissões históricas de gases do efeito estufa, especialmente o dióxido de carbono (CO₂), e o crescimento econômico dos países ao longo do século XX. A ideia central é analisar se os países que mais contribuíram para o aquecimento global também foram os que mais enriqueceram, considerando indicadores como o PIB per capita e a emissão cumulativa de CO₂.
+
+Essa análise é motivada por discussões cada vez mais frequentes sobre justiça climática e responsabilidade histórica. A crise climática atual tem impactos globais, mas as contribuições para ela são extremamente desiguais. Ao explorar essa relação sob uma perspectiva estatística, buscamos contribuir com evidências que podem reforçar a importância de ações mais justas e proporcionais em negociações internacionais sobre clima e desenvolvimento sustentável.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
@@ -25,8 +26,15 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+Quais países mais emitiram CO₂ ao longo do século XX?
+
+Quais países apresentam os maiores PIBs per capita atualmente?
+
+Existe correlação entre as emissões acumuladas de CO₂ e o PIB per capita atual dos países?
+
+Países que mais poluíram no século XX têm, em média, maior riqueza hoje?
+
+Grupos de países com maior e menor emissão apresentam diferenças estatisticamente significativas no nível de riqueza atual?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
