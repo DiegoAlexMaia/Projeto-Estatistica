@@ -1,7 +1,7 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
+- Diego Alex Maia de Lima (202411210032) - diego.maia@academico.ifpb.edu.br  
 - Nome 2 (matrícula) - email  
 - Nome 3 (matrícula) - email  
 
