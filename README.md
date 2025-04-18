@@ -12,17 +12,16 @@ Essa análise é motivada por discussões cada vez mais frequentes sobre justiç
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+O conjunto de dados "CO2 Emissions Country Wise Visualizations" reúne informações sobre as emissões de dióxido de carbono (CO₂) por país ao longo do tempo, com foco no período de 1960 a 2018. O escopo     geográfico é global, cobrindo dezenas de países com dados padronizados. As principais variáveis incluem: emissões anuais de CO₂ por país (em toneladas), emissões per capita, PIB per capita, população e outros indicadores econômicos e ambientais. Este conjunto de dados permite explorar como as emissões evoluíram ao longo das décadas e como elas se comparam entre diferentes países e regiões.
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
-
+Este conjunto de dados é ideal para análises estatísticas que relacionem crescimento econômico e impacto ambiental. Ele fornece uma base robusta para investigar a correlação entre PIB per capita e emissões acumuladas de CO₂, o que é essencial para discutir responsabilidade histórica nas mudanças climáticas. Além disso, os dados estão organizados de forma acessível para visualizações e testes estatísticos, o que facilita a construção de evidências sobre desigualdades na contribuição para a crise climática. Essa abordagem é particularmente útil em debates sobre justiça climática e políticas públicas globais.
 ---
 
 ## ❓ Perguntas ou Hipóteses  
