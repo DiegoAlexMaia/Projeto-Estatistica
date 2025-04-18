@@ -3,7 +3,7 @@
 ## 🧑‍💻 Autores  
 - Diego Alex Maia de Lima (202411210032) - diego.maia@academico.ifpb.edu.br  
 - Ivan Javier Pereira Martinez (202411210033) - ivan.javier@academico.ifpb.edu.br  
-- Nome 3 (matrícula) - email  
+- Samuel Rodrigues Agra (202411210018) - agra.samuel@academico.iifpb.edu.br  
 
 ## 🎯 Tema e Motivação  
 Neste projeto, vamos investigar a relação entre as emissões históricas de gases do efeito estufa, especialmente o dióxido de carbono (CO₂), e o crescimento econômico dos países ao longo do século XX. A ideia central é analisar se os países que mais contribuíram para o aquecimento global também foram os que mais enriqueceram, considerando indicadores como o PIB per capita e a emissão cumulativa de CO₂.
