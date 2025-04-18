@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - Diego Alex Maia de Lima (202411210032) - diego.maia@academico.ifpb.edu.br  
-- Nome 2 (matrícula) - email  
+- Ivan Javier Pereira Martinez (202411210033) - ivan.javier@academico.ifpb.edu.br  
 - Nome 3 (matrícula) - email  
 
 ## 🎯 Tema e Motivação  
