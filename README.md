@@ -48,6 +48,8 @@ Países que mais poluíram no século XX têm, em média, maior riqueza hoje?
 
 Grupos de países com maior e menor emissão apresentam diferenças estatisticamente significativas no nível de riqueza atual?
 
+Tamanho populacional interfere na Emição de CO2 e/ou PIB do pais?
+
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
 Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
