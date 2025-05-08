@@ -32,6 +32,7 @@ Este conjunto de dados é ideal para análises estatísticas que relacionem cres
 - **Dados**
   - Emissão de CO2 - Quantitativo
   - PIB por país - Quantitativo
+  - Ano - Quantitativo
   - População - Quantitativo
   - Países - Qualitativo
 ---
