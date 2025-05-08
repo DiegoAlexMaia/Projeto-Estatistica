@@ -17,12 +17,11 @@ CO2 Emissions Country Wise Visualizations
 - **Fonte:**
 Emissão de CO2
 https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
-
-PIB 
+PIB
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-
 Crescimentoo Populacional
 https://www.kaggle.com/datasets/deeplyft/world-population-growth-annual
+
 
 - **Descrição breve:**  
 O conjunto de dados "CO2 Emissions Country Wise Visualizations" reúne informações sobre as emissões de dióxido de carbono (CO₂) por país ao longo do tempo, com foco no período de 1960 a 2018. O escopo     geográfico é global, cobrindo dezenas de países com dados padronizados. As principais variáveis incluem: emissões anuais de CO₂ por país (em toneladas), emissões per capita, PIB per capita, população e outros indicadores econômicos e ambientais. Este conjunto de dados permite explorar como as emissões evoluíram ao longo das décadas e como elas se comparam entre diferentes países e regiões.
