@@ -17,7 +17,7 @@ CO2 Emissions Country Wise Visualizations
 - **Fonte:**
   - Emissão de CO2
     https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
-  - PIB
+  - PIB por país
     https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
   - Crescimentoo Populacional
     https://www.kaggle.com/datasets/deeplyft/world-population-growth-annual
@@ -30,10 +30,10 @@ O conjunto de dados "CO2 Emissions Country Wise Visualizations" reúne informaç
 Este conjunto de dados é ideal para análises estatísticas que relacionem crescimento econômico e impacto ambiental. Ele fornece uma base robusta para investigar a correlação entre PIB per capita e emissões acumuladas de CO₂, o que é essencial para discutir responsabilidade histórica nas mudanças climáticas. Além disso, os dados estão organizados de forma acessível para visualizações e testes estatísticos, o que facilita a construção de evidências sobre desigualdades na contribuição para a crise climática. Essa abordagem é particularmente útil em debates sobre justiça climática e políticas públicas globais.
 
 - **Dados**
-  Emissão de CO2 - Quantitativo
-  PIB por país - Quantitativo
-  População - Quantitativo
-  Países - Qualitativo
+  - Emissão de CO2 - Quantitativo
+  - PIB por país - Quantitativo
+  - População - Quantitativo
+  - Países - Qualitativo
 ---
 
 ## ❓ Perguntas ou Hipóteses  
