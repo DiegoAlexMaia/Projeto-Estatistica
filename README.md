@@ -16,6 +16,7 @@ CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**  
 https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
+
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 - **Descrição breve:**  
