@@ -19,8 +19,6 @@ CO2 Emissions Country Wise Visualizations
     https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
   - PIB por país: 
     https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-  - Crescimentoo Populacional: 
-    https://www.kaggle.com/datasets/deeplyft/world-population-growth-annual
 
 
 - **Descrição breve:**  
@@ -33,7 +31,6 @@ Este conjunto de dados é ideal para análises estatísticas que relacionem cres
   - Emissão de CO2 - Quantitativo
   - PIB por país - Quantitativo
   - Ano - Quantitativo
-  - População - Quantitativo
   - Países - Qualitativo
 ---
 
@@ -48,7 +45,6 @@ Países que mais poluíram no século XX têm, em média, maior riqueza hoje?
 
 Grupos de países com maior e menor emissão apresentam diferenças estatisticamente significativas no nível de riqueza atual?
 
-Tamanho populacional interfere na Emição de CO2 e/ou PIB do pais?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
