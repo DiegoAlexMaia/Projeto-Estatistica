@@ -15,11 +15,11 @@ Essa análise é motivada por discussões cada vez mais frequentes sobre justiç
 CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**
-  - Emissão de CO2
+  - Emissão de CO2: 
     https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
-  - PIB por país
+  - PIB por país: 
     https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-  - Crescimentoo Populacional
+  - Crescimentoo Populacional: 
     https://www.kaggle.com/datasets/deeplyft/world-population-growth-annual
 
 
