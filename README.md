@@ -17,7 +17,7 @@ CO2 Emissions Country Wise Visualizations
 - **Fonte:**
   - Emissão de CO2: 
     https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
-  - PIB por país: 
+  - PIB per capta: 
     https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 
@@ -29,7 +29,7 @@ Este conjunto de dados é ideal para análises estatísticas que relacionem cres
 
 - **Dados**
   - Emissão de CO2 - Quantitativo
-  - PIB por país - Quantitativo
+  - PIB per capta - Quantitativo
   - Ano - Quantitativo
   - Países - Qualitativo
 ---
