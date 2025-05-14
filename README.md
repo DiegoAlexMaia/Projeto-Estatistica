@@ -15,9 +15,9 @@ Essa análise é motivada por discussões cada vez mais frequentes sobre justiç
 CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**
-  - Emissão de CO2: 
+  - Emissões de CO₂: [Kaggle - CO2 Emissions Country Wise] 
     https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
-  - PIB per capta: 
+  - PIB dos países: [World Bank - GDP (current US$)] 
     https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 
