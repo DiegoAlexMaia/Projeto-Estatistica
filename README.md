@@ -16,9 +16,9 @@ CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**
   - Emissões de CO₂: [Kaggle - CO2 Emissions Country Wise] 
-    https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
+    - https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
   - PIB dos países: [World Bank - GDP (current US$)] 
-    https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+    - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 
 - **Descrição breve:**  
