@@ -15,7 +15,7 @@
 
 - *PIB (World Bank)*:
   - Estrutura com linhas representando os países e colunas para cada ano.
-  - Pode exigir transformação para "formato longo" (long format) para ser compatível com o dataset de CO₂.
+  - Pode exigir transformação para "formato longo" para ser compatível com o dataset de CO₂.
   
 ---
 
@@ -23,7 +23,7 @@
 
 - *Qualitativas (Categóricas):*
   - Nome do país.
-  - Continente ou região (se disponível).
+  - Continente ou região.
   - Ano (pode ser categórica ou temporal dependendo da análise).
 
 - *Quantitativas (Numéricas):*
