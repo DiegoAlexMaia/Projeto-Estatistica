@@ -15,6 +15,8 @@ Essa análise é motivada por discussões cada vez mais frequentes sobre justiç
 CO2 Emissions Country Wise Visualizations
 
 - **Fonte:**
+  - Classificação dos paises por continente: [Kaggle - country to continent]
+    - https://www.kaggle.com/datasets/statchaitya/country-to-continent/data?select=countryContinent.csv
   - Emissões de CO₂: [Kaggle - CO2 Emissions Country Wise] 
     - https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
   - PIB dos países: [World Bank - GDP (current US$)] 
