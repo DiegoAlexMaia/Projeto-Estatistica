@@ -17,8 +17,10 @@ CO2 Emissions Country Wise Visualizations
 - **Fonte:**
   - Classificação dos paises por continente: [Kaggle - country to continent]
     - https://www.kaggle.com/datasets/statchaitya/country-to-continent/data?select=countryContinent.csv
-  - Emissões de CO₂: [Kaggle - CO2 Emissions Country Wise] 
+  - Emissões de CO₂ Per Capita: [Kaggle - CO2 Emissions Country Wise] 
     - https://www.kaggle.com/code/odins0n/co2-emissions-country-wise-visualizations/
+  - Emissões de CO₂ Total: [Kaggle - CO2 Emissions] 
+    - https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
   - PIB dos países: [World Bank - GDP (current US$)] 
     - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
