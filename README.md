@@ -48,24 +48,107 @@ Grupos de países com maior e menor emissão apresentam diferenças estatisticam
 
 
 ## 🔍 Metodologia  
-*A preencher na próxima etapa.*  
-Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
+
+Para responder às perguntas propostas, a análise será conduzida em etapas, combinando técnicas de **estatística descritiva**, **exploratória** e **inferencial**. O processo será estruturado da seguinte forma:  
+
+1. **Tratamento e integração dos dados**  
+   - Unificação dos diferentes conjuntos de dados (emissões totais, emissões per capita, PIB, população e classificação por continente e renda) utilizando o **nome do país** como chave de junção.  
+   - Padronização de formatos e nomes de variáveis.  
+   - Exclusão ou imputação de valores ausentes conforme o caso.  
+
+2. **Análise Exploratória dos Dados (AED)**  
+   - Cálculo de **estatísticas descritivas** (média, mediana, desvio padrão, mínimo e máximo) para emissões totais e per capita.  
+   - Visualizações gráficas: histogramas, boxplots, gráficos de linhas e barras para observar tendências e comparações entre países e regiões.  
+
+3. **Análises específicas**  
+   - **Top emissores globais**: Identificação dos 10 países com maior emissão total no último ano disponível, apresentando valores absolutos.  
+   - **Distribuição per capita**: Cálculo e visualização da distribuição das emissões per capita no último ano, destacando dispersão e outliers.  
+   - **Variação por continente**: Agrupamento por continente e década para medir variação média e desvio padrão das emissões totais por país, identificando o continente com maior instabilidade ao longo do tempo.  
+   - **Tendência global**: Cálculo da média e do desvio padrão das emissões globais por década para observar tendências históricas.  
+   - **Discrepância entre total e per capita**: Análise dos 5 países com maior e menor diferença proporcional entre emissões totais e per capita no último ano.  
+   - **Distribuição por renda**: Agrupamento por faixas de renda (alta, média, baixa) conforme classificação do Banco Mundial, calculando médias e desvios padrão das emissões per capita.  
+
+4. **Correlação entre emissões e riqueza**  
+   - Cálculo do **coeficiente de correlação de Pearson** entre emissões acumuladas de CO₂ e PIB per capita atual.  
+   - Interpretação da força e direção da correlação.  
+   - Análise de possíveis outliers e padrões regionais.  
+
+5. **Testes de hipótese**  
+   - Aplicação de **testes t de Student** ou **ANOVA** (dependendo do número de grupos) para verificar se países com maiores emissões apresentam PIB per capita significativamente diferente dos demais.  
+   - Nível de significância adotado: 5% (α = 0,05).  
+
+6. **Ferramentas utilizadas**  
+   - **Python** (pandas, numpy, matplotlib, seaborn, scipy) para processamento e visualização.  
+   - **Planilhas eletrônicas** para verificações manuais pontuais.  
+
+7. **Interpretação e conclusões**  
+   - Discussão dos resultados à luz do conceito de justiça climática.  
+   - Comparação dos achados com tendências já conhecidas em relatórios do IPCC e estudos sobre emissões históricas.  
 
 ## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
-Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
+
+Para a execução do projeto, foram utilizadas as seguintes ferramentas:  
+
+- **Kaggle** – Plataforma para acesso, exploração e download dos conjuntos de dados utilizados.  
+- **Jupyter Notebook** – Ambiente interativo para desenvolvimento, execução e documentação do código.  
+- **Linguagem Python** – Linguagem principal para tratamento, análise e visualização dos dados.  
+- **Biblioteca Pandas** – Utilizada para manipulação e análise de dados tabulares de forma eficiente.  
 
 ## 📈 Resultados  
-*A preencher após as análises.*  
-Resumo visual e interpretativo dos principais achados.
+
+A análise estatística e visual dos dados sobre emissões de CO₂ revelou os seguintes pontos-chave:
+
+1. **Distribuição Global das Emissões per capita (2018)**  
+   - Média: **4,06 t/hab**  
+   - Mediana: **2,60 t/hab**  
+   - Desvio padrão: **4,58 t/hab**  
+   - Mínimo: **0,026 t/hab**  
+   - Máximo: **32,42 t/hab**  
+   O histograma evidenciou forte assimetria à direita, com a maioria dos países emitindo pouco e alguns poucos com emissões extremamente altas. O boxplot confirmou a presença de **outliers** significativos.
+
+2. **Variação das Emissões por Continente e Década**  
+   - Nas décadas de **1960 a 1980**, a Europa apresentou a maior variabilidade.  
+   - A partir de **1990**, a Ásia assumiu o posto, com aumento expressivo no desvio padrão, atingindo **15,9 milhões kt** em 2010.  
+   - Esse crescimento acompanha a industrialização acelerada e expansão econômica asiática.
+
+3. **Tendência da Emissão Média Global (por década)**  
+   - Pico observado na década de **1970** (~1241 kt).  
+   - Redução até os anos 1990, seguida de leve recuperação nos anos 2000.  
+   - O desvio padrão das médias globais caiu ao longo do tempo, indicando menor desigualdade entre países no volume total emitido.
+
+4. **Emissões por Grupo de Renda (2010–2018)**  
+   - Alta renda: **8,98 t/hab** (maior média e grande dispersão).  
+   - Baixa renda: **0,29 t/hab**.  
+   - Renda média baixa: **1,03 t/hab**.  
+   - Renda média alta: **3,82 t/hab**.  
+   Observa-se relação positiva entre renda e emissões per capita.
+
+5. **Maiores Emissores em 2018 (em valores absolutos)**  
+   - **China**: 10,50 Gt  
+   - **EUA**: 4,98 Gt  
+   - **Índia**: 2,45 Gt  
+   - Os 10 maiores emissores somaram **23,84 Gt**, representando parcela significativa do total global.
+
+6. **Discrepância entre Emissões per capita Declaradas e Calculadas**  
+   - Maiores discrepâncias: Palau, EAU, Nauru, Islândia, Omã.  
+   - Menores discrepâncias: Sri Lanka, Burkina Faso, Antígua e Barbuda, Israel, Etiópia.
+
 
 ## 📌 Conclusões  
-*A preencher no final do projeto.*  
-Síntese dos aprendizados e implicações das análises realizadas.
+Os resultados indicam que há uma correlação positiva significativa entre as emissões acumuladas de CO₂ e o PIB per capita atual, sugerindo que os países que mais cresceram economicamente no século XX também foram os maiores emissores. No entanto, essa relação não é uniforme, pois existem outliers que destacam particularidades regionais e econômicas.
+
+A análise por grupos de renda reforça a disparidade entre países ricos e pobres no que diz respeito às emissões per capita, apontando para um desequilíbrio na responsabilidade histórica sobre as mudanças climáticas. Esses achados fortalecem a argumentação em prol da justiça climática, onde países que mais contribuíram para o aquecimento global deveriam assumir maior responsabilidade em políticas e investimentos ambientais.
 
 ## ⚠️ Limitações e Trabalhos Futuros  
-*A preencher no final do projeto.*  
-Quais foram as limitações do estudo e o que poderia ser feito com mais tempo ou dados adicionais.
+Este estudo tem algumas limitações importantes:  
+- A qualidade e a abrangência dos dados históricos podem variar entre países, o que pode afetar a precisão das análises.  
+- Não foram consideradas variáveis intermediárias, como políticas ambientais, intensidade tecnológica, e mudanças na estrutura econômica dos países.  
+- O período analisado vai até 2018, não contemplando eventos recentes que possam alterar tendências.  
+
+Trabalhos futuros podem incluir:  
+- Análise mais detalhada de causalidade entre crescimento econômico e emissões, utilizando modelos econométricos avançados.  
+- Inclusão de outras variáveis ambientais e sociais para uma análise multidimensional da justiça climática.  
+- Estudos regionais mais profundos para entender dinâmicas específicas de continentes e grupos de países.  
+- Atualização dos dados com informações mais recentes e projeções para as próximas décadas.
 
 ---
-
